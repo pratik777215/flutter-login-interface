@@ -46,3 +46,19 @@ and promote their spaces through the platform.
 ### Registration Page
 
 ![Band Bunker Registration Page](screenshots/Register_Interface.png)
+
+# Technologies Used
+- Flutter
+- Dart
+- Android Studio
+- Git and GitHub
+
+# How to Run the Project
+- Clone the repository
+  git clone https://github.com/pratik777215/flutter-login-interface.git 
+- Open the Project
+  Open the cloned project folder in Android Studio
+- Install Dependencies
+  Open the terminal inside the project folder and run: flutter pub get
+- Run the Application
+  Connect and Android device and start the Android emulator and then Run: flutter run / Click the Run Button in Android Studio
