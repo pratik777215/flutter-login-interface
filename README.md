@@ -1,17 +1,48 @@
-# classico
+# Band Bunker
 
-A new Flutter project.
+Bank Bunker is a Flutter-based mobile application designed to help musicians discover, connect,
+and collaborate with other musicians. The platform allows the users to create a portfolio of musician,
+showcase their achievements, and specify their musical roles such as vocalist, guitarist, pianist, drummer,
+and more.
 
-## Getting Started
+The main goal of Band Bunker is to make it easier for musicians to find suitable band members, discover
+local musicians, and build connections within the local area music community.
 
-This project is a starting point for a Flutter application.
+The application also provides a platform for jamming room promoters to list their available spaces and
+promote their services. Users can discover suitable jamming spaces, while promoters can receive bookings
+and promote their spaces through the platform.
 
-A few resources to get you started if this is your first Flutter project:
+#Features
+* User
+- User registration and login
+- Create and manage a musician profile
+- Select musical role/instrument
+- Discover other musicians
+- Connect and network with musicians
+- Discover local bands and band members who are potential in music.
+- Find available jamming rooms.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* Promoter
+- Promoter registration and Login
+- Create and manage listings of jamming rooms
+- Add information about jamming spaces
+- Receive booking requests
+- Promote their jamming rooms
+- Advertise available spaces to musicians
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Admin
+- Manage both users (Users and Promoters)
+- Manage musician profiles
+- Manage jamming room listings
+- Monitor reported or inappropriate content
+- Manage advertisements and promoted listings
+
+## Screenshots
+
+### Login Page
+
+![Band Bunker Login Page](screenshots/Login_Interface.png)
+
+### Registration Page
+
+![Band Bunker Registration Page](screenshots/Register_Interface.png)
